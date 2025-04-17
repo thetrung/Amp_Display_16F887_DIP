@@ -1,8 +1,6 @@
 # Amplifier Display with PIC16F887 (DIP Version)
 The classic 8-bit **PIC16F887** will display all inputs on signals scan to its OLED (SSD1306) display. No LDO or any power-safe since we assume this will be powered by a stable current. Hope after like 5 Devkit version, this can be somewhat usable.
 
-![](https://github.com/thetrung/Amp_Display_16F887_DIP/blob/master/Images/Schematic.png)
-
 ### I/O Summpary
 - I2C / UART / ICSP.
 - 2-pins Power VCC/GND.
@@ -20,3 +18,6 @@ The classic 8-bit **PIC16F887** will display all inputs on signals scan to its O
 
 ### Back View
 ![](https://github.com/thetrung/Amp_Display_16F887_DIP/blob/master/Images/Back_View.png)
+
+### Schematic
+![](https://github.com/thetrung/Amp_Display_16F887_DIP/blob/master/Images/Schematic.png)
