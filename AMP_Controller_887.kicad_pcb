@@ -190,7 +190,7 @@
 			)
 		)
 		(property "Value" "330"
-			(at 2.54 1.92 0)
+			(at 2.58 -2 0)
 			(layer "F.Fab")
 			(uuid "1c0664ee-0598-4eaa-8f7b-6773a3c2d0aa")
 			(effects
@@ -413,7 +413,7 @@
 			)
 		)
 		(property "Value" "330"
-			(at 2.54 1.92 90)
+			(at 7 0 90)
 			(layer "F.Fab")
 			(uuid "64fedd9e-e172-4140-ae3d-12d51d660a45")
 			(effects
@@ -575,7 +575,7 @@
 			(uuid "8d1b34c6-cd79-4106-9fd0-4589a917e9e8")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.54 -0.5 90)
+			(at 2.54 0 90)
 			(layer "F.Fab")
 			(uuid "e926e2cb-4e21-418f-9e87-8d7dbe384924")
 			(effects
@@ -983,7 +983,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at -0.96 1.92 0)
+			(at 2.5 0 0)
 			(layer "F.Fab")
 			(uuid "4967b6a3-c2a4-4afb-8d0f-0b6758477f2d")
 			(effects
@@ -1206,7 +1206,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 2.54 2 0)
+			(at 2.54 -2 0)
 			(layer "F.Fab")
 			(uuid "619360a5-a317-4077-8618-84cdd7d35441")
 			(effects
@@ -1681,7 +1681,7 @@
 			)
 		)
 		(property "Value" "LED_RD3"
-			(at -0.27 5.14 90)
+			(at -1.23 0 180)
 			(layer "F.Fab")
 			(uuid "414bd2b4-01d7-47c3-94f9-0b0a4cc57221")
 			(effects
@@ -3276,7 +3276,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 0.73 2.03 90)
+			(at 4.75 1 90)
 			(layer "F.Fab")
 			(uuid "5897311e-a776-41d3-b5fa-d4d9709ce7b9")
 			(effects
@@ -3866,7 +3866,7 @@
 			)
 		)
 		(property "Value" "22pF"
-			(at 0.73 2.03 90)
+			(at 1.25 0 90)
 			(layer "F.Fab")
 			(uuid "2772b1ba-5ded-47d8-bcba-8d407fcfc640")
 			(effects
@@ -5026,7 +5026,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 2.54 1.92 90)
+			(at 6.54 -0.8 90)
 			(layer "F.Fab")
 			(uuid "e51c0ad6-8644-4033-9485-f04b02fe0762")
 			(effects
@@ -6728,7 +6728,7 @@
 			)
 		)
 		(property "Value" "22pF"
-			(at 0.98 2.03 90)
+			(at 1.75 0 90)
 			(layer "F.Fab")
 			(uuid "a5cf5a93-3283-448c-ad45-d411d0841e3c")
 			(effects
@@ -8034,7 +8034,8 @@
 		(effects
 			(font
 				(size 1.2 1.2)
-				(thickness 0.1)
+				(thickness 0.24)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
